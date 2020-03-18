@@ -1,0 +1,19 @@
+Errors Repaired:
+
+Corrected header <h1>
+
+Added paragraphs to the body
+
+Added list items
+
+Changed javascript from "errors.js" to "logic.js"
+
+added commas in "boos facts" list.
+
+added "" to the color pink.
+
+added "" to the word click.
+
+Fixed Image Link
+
+
